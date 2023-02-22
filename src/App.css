@@ -1,0 +1,21 @@
+/* 
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+} */
+
+
+.container{
+   max-width: 900px !important;
+ 
+}
+.no-user{
+    display: block;
+    background: rgba(214, 49, 49, 0.836);
+    padding: 20px;
+    color: #fff;
+}
