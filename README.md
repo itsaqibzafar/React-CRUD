@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![React CRUD Desktop Demo](./desktop.png "Desktop Demo")
+![React CRUD Desktop Demo](./desktop.PNG "Desktop Demo")
 
 ### Prerequisites
 
