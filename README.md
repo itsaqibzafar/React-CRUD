@@ -5,7 +5,7 @@
 
   <h2 align="center">React Crud - A simple CRUD application</h2>
 
-  Calculater is a fully responsive web application, <br />Responsive for all devices, build using React JS.
+  React Crud is a fully responsive web application, <br />Responsive for all devices, build using React JS.
 
   <a href="https://dancing-quokka-267024.netlify.app"><strong>➥ Live Demo</strong></a>
 
